@@ -11,7 +11,7 @@ function ModelSelection() {
   });
 
   return (
-    <div>
+    <div className="mt-2">
       <Select
         className="mt-2"
         options={models?.modelOptions}
@@ -21,7 +21,7 @@ function ModelSelection() {
         isLoading={isLoading}
         menuPosition="fixed"
         classNames={{
-          control: (state) => "bg-[#434654] border-[#434654]",
+          control: (state) => "bg-[#434654] border-[#434654] text-white",
         }}
         onChange={(e) => setModel(e.value)}
       />
