@@ -46,9 +46,7 @@ function ChatInput({ chatId }: Props) {
         chatId,
         "messages"
       ),
-      {
-        message,
-      }
+      message
     );
 
     // Toast notification to say thinking!
