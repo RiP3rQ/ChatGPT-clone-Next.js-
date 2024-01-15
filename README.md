@@ -30,7 +30,6 @@
 
 ![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/ChatGPT-clone-Next.js-/main/screenshots/chat_4.PNG)
 
-![App Screenshot](https://raw.githubusercontent.com/RiP3rQ/ChatGPT-clone-Next.js-/main/screenshots/chat_5.PNG)
 
 
 
